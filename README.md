@@ -15,7 +15,7 @@ O repositório está organizado da seguinte maneira:
 - `Strings`: Contém a resolução da Lista 5, que aborda strings.
 - `Structs`: Contém a resolução da Lista 6, que aborda structs.
 
-Dentro de cada pasta, você encontrará os arquivos correspondentes a cada exercício da respectiva lista. Os arquivos estão nomeados de acordo com o nome do exercício.
+Dentro de cada pasta, você encontrará os arquivos correspondentes a cada exercício da respectiva lista. Os arquivos estão nomeados de acordo com o nome do exercício. Há também, em cada pasta, um README contendo os links de cada questão do The Huxley.
 
 ## 🧾 Requisitos
 
